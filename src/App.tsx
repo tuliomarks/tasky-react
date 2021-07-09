@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import "tailwindcss/tailwind.css"
 import { Layout } from "./Components/Layout";
 import { AppDataProvider } from "./Data";
 
